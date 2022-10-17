@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">proyectx</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="usurio">Usurio</string>
+    <string name="iniciar_secion">Iniciar seción</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="olvide">Olvide contraseña</string>
+    <string name="acceder">Acceder</string>
+</resources>
